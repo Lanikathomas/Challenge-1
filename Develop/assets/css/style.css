@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/*Applies to any html body tag*/
 body {
     background-color: #d9dcd6;
 }
-
+/*Applies to any html header tag*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,7 +19,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*Applies to any html header tag,h1 tag and seo class.*/
 header h1 .seo {
     color: #d9dcd6;
 }
